@@ -7,7 +7,8 @@
 适用于 Android、iOS、Windows、macOS 等设备。无论是访问 Google、YouTube 等外网服务，还是解锁 Netflix 流媒体、外贸办公或外服游戏加速，
 这些稳定外网梯子都能满足日常需求。
 
-![Uploading Clash-稳定翻墙机场推荐.png…]()
+<img width="720" height="420" alt="Clash-稳定翻墙机场推荐" src="https://github.com/user-attachments/assets/e5f6d91d-0722-491e-a3fc-fae825a3ece9" />
+
 
 #### 2026年翻墙机场推荐榜单（Clash机场实测）
 以下机场均为实测可长期使用的方案，支持主流协议并兼容 Clash 客户端。
